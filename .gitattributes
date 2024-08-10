@@ -1,0 +1,6 @@
+Scraping filter=lfs diff=lfs merge=lfs -text
+NC filter=lfs diff=lfs merge=lfs -text
+Voter filter=lfs diff=lfs merge=lfs -text
+Reg filter=lfs diff=lfs merge=lfs -text
+Data.ipynb filter=lfs diff=lfs merge=lfs -text
+Scraping[[:space:]]NC[[:space:]]Voter[[:space:]]Reg[[:space:]]Data.ipynb filter=lfs diff=lfs merge=lfs -text
